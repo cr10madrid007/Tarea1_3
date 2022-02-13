@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tarea1_3.MainPage">
+
+
+
+    <ContentPage.ToolbarItems>
+        
+
+        <ToolbarItem Text="Operaciones con Datos"
+                     Clicked="ToolbarItem_Clicked" />
+
+    </ContentPage.ToolbarItems>
+
+    
+    <StackLayout>
+        <ListView x:Name="ListaEmpleados"  ItemTapped="ListaEmpleados_ItemTapped" >
+
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding nombres}" Detail="{Binding apellidos}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,16 @@
+C:\Users\crist\source\repos\Tarea1_3\Tarea1_3\bin\Debug\netstandard2.0\Tarea1_3.deps.json
+C:\Users\crist\source\repos\Tarea1_3\Tarea1_3\bin\Debug\netstandard2.0\Tarea1_3.dll
+C:\Users\crist\source\repos\Tarea1_3\Tarea1_3\bin\Debug\netstandard2.0\ref\Tarea1_3.dll
+C:\Users\crist\source\repos\Tarea1_3\Tarea1_3\bin\Debug\netstandard2.0\Tarea1_3.pdb
+C:\Users\crist\source\repos\Tarea1_3\Tarea1_3\obj\Debug\netstandard2.0\Tarea1_3.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\Tarea1_3\Tarea1_3\obj\Debug\netstandard2.0\Tarea1_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\Tarea1_3\Tarea1_3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\crist\source\repos\Tarea1_3\Tarea1_3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\crist\source\repos\Tarea1_3\Tarea1_3\obj\Debug\netstandard2.0\Tarea1_3.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\Tarea1_3\Tarea1_3\obj\Debug\netstandard2.0\Tarea1_3.AssemblyInfo.cs
+C:\Users\crist\source\repos\Tarea1_3\Tarea1_3\obj\Debug\netstandard2.0\Tarea1_3.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Tarea1_3\Tarea1_3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\crist\source\repos\Tarea1_3\Tarea1_3\obj\Debug\netstandard2.0\Tarea1_3.dll
+C:\Users\crist\source\repos\Tarea1_3\Tarea1_3\obj\Debug\netstandard2.0\ref\Tarea1_3.dll
+C:\Users\crist\source\repos\Tarea1_3\Tarea1_3\obj\Debug\netstandard2.0\Tarea1_3.pdb
+C:\Users\crist\source\repos\Tarea1_3\Tarea1_3\obj\Debug\netstandard2.0\operaciones.xaml.g.cs

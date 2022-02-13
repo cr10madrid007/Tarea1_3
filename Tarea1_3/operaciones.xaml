@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tarea1_3.operaciones">
+    <ContentPage.Content>
+        <StackLayout>
+
+
+            <Entry x:Name="Codigo" Placeholder="Codigo" Text="{Binding codigo}" IsEnabled="False" />
+            <Entry x:Name="Nombres" Placeholder="Nombre" Text="{Binding nombres}"  />
+            <Entry x:Name="Apellidos" Placeholder="Apellidos" Text="{Binding apellidos}" />
+            <Entry x:Name="Edad" Placeholder="Edad" Keyboard="Numeric" Text="{Binding edad}"/>
+            <Entry x:Name="correo" Placeholder="Correo" Keyboard="Email" Text="{Binding correo}" />
+            <Entry x:Name="direccion" Placeholder="Dirección" Text="{Binding direccion}"  />
+
+            <Grid ColumnDefinitions="*,*">
+                <Button x:Name="btnAgregar" Text="Agregar" Clicked="btnAgregar_Clicked" />
+                <Button Grid.Column="1" x:Name="btnActualizar" Text="Actualizar" Clicked="btnActualizar_Clicked" />
+
+
+            </Grid>
+
+            <Button  x:Name="btnBorrar" Text="Borrar" Clicked="btnBorrar_Clicked" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
